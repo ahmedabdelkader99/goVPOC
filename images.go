@@ -1,4 +1,4 @@
-package goVPSie
+package goVPOC
 
 import (
 	"context"
