@@ -1,4 +1,4 @@
-package goVPSie
+package goVPOC
 
 import (
 	"context"
@@ -302,7 +302,7 @@ func (f *firewallGroupServiceHandler) DeleteFirewallGroupOfServer(ctx context.Co
 
 //
 //
-// // package goVPSie
+// // package goVPOC
 
 // import (
 // 	"context"
