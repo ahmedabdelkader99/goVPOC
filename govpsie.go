@@ -12,7 +12,7 @@ import (
 
 const (
 	libraryVersion = "2.0"
-	defaultBaseURL = "http://api.vpoc.cloud/api/v2"
+	defaultBaseURL = "https://api.vpoc.cloud/api/v2"
 	userAgent      = "vpoccli/" + libraryVersion
 	mediaType      = "application/json"
 )
